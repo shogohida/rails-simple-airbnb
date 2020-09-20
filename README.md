@@ -7,4 +7,5 @@
 -HTML/CSS  
 -PostgreSQL  
 -Git/GitHub  
--Rubocop
+-Rubocop  
+-Sider  
